@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="MigLayout">
+    <archive path="D:/Programowanie/UTP/UTP10_KD_S23109/lib/miglayout-swing.jar" />
+    <archive path="D:/Programowanie/UTP/UTP10_KD_S23109/lib/miglayout-core.jar" />
+  </library>
+</eclipse-userlibraries>
+

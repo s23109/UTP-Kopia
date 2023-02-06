@@ -1,0 +1,72 @@
+Folder with classes: D:\Programowanie\UTP\UTP13_KD_S23109\src\zad2\Klasy
+
+Wykryto 4 klas/y:
+Motocykl
+Pojazd
+Tir
+Znak
+
+Beginning:
+=============================================
+Current tested class: ,,Motocykl''
+Nadklasy klasy Motocykl : Pojazd -> Object
+Konstruktory:
+Nieprywatne metody:
+public void Motocykl.wypisz(java.lang.String)
+Publiczne pola zadeklarowane w tej klasie:
+public javax.swing.JButton Motocykl.button
+public java.lang.String Motocykl.ksywka
+Pola z bezpośredniej nadklasy które są tu dostępne:
+public int Pojazd.price
+public static final java.awt.Color Pojazd.color
+public java.lang.String Pojazd.name
+Testing for class: ,,Motocykl'' has ended
+=============================================
+Current tested class: ,,Pojazd''
+Nadklasy klasy Pojazd : Object
+Konstruktory:
+public Pojazd(java.lang.String)
+Nieprywatne metody:
+public java.lang.String Pojazd.getName()
+public void Pojazd.wypisz(java.lang.String)
+public int Pojazd.getPrice()
+Publiczne pola zadeklarowane w tej klasie:
+public int Pojazd.price
+public static final java.awt.Color Pojazd.color
+public java.lang.String Pojazd.name
+Pola z bezpośredniej nadklasy które są tu dostępne:
+Testing for class: ,,Pojazd'' has ended
+=============================================
+Current tested class: ,,Tir''
+Nadklasy klasy Tir : Pojazd -> Object
+Konstruktory:
+public Tir(java.lang.String)
+Nieprywatne metody:
+public void Tir.wypisz(java.lang.String)
+Publiczne pola zadeklarowane w tej klasie:
+public java.lang.String Tir.ladunek
+Pola z bezpośredniej nadklasy które są tu dostępne:
+public int Pojazd.price
+public static final java.awt.Color Pojazd.color
+public java.lang.String Pojazd.name
+Testing for class: ,,Tir'' has ended
+=============================================
+Current tested class: ,,Znak''
+Nadklasy klasy Znak : Object
+Konstruktory:
+public Znak(java.lang.String)
+public Znak(java.lang.String,int)
+Nieprywatne metody:
+public void Znak.wypisz(java.lang.String)
+public java.lang.String Znak.getTresc()
+public void Znak.setTresc(java.lang.String)
+Publiczne pola zadeklarowane w tej klasie:
+Pola z bezpośredniej nadklasy które są tu dostępne:
+Testing for class: ,,Znak'' has ended
+=============================================
+Klasa wylosowana: 3 : Znak
+Sth
+Sth
+Sth
+
+Process finished with exit code 0
